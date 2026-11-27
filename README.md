@@ -1,4 +1,4 @@
-# ScamSense KE 🇰🇪
+# ScamSense KE 
 
 ### AI-Assisted Digital Scam Detection and Analysis Platform
 
